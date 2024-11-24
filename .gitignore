@@ -1,0 +1,20 @@
+# Ignore Python virtual environments
+myenv/
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large or temporary files
+*.pkl
+*.dll
+*.lib
+*.exe
+*.log
+*.csv
+*.xlsx
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
